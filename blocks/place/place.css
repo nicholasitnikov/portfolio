@@ -1,0 +1,11 @@
+.place {
+    border-radius: 3px;
+    border: 1px solid rgba(256,256,256,.2);
+    position: relative;
+    cursor: pointer;
+    transition: border .15s ease-out;
+}
+
+.place:hover {
+    border-color: rgba(256, 256, 256, .4);
+}

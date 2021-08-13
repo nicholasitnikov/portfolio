@@ -1,0 +1,15 @@
+.profile__info-name {
+    padding: 0 0 8px;   
+}
+
+@media screen and (max-width: 740px) {
+    .profile__info-name {
+        padding: 0 24px 8px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .profile__info-name {
+        padding: 0 24px 7px;
+    }
+}
