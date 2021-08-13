@@ -11,5 +11,7 @@
 @media screen and (max-width: 480px) {
     .profile__info-name {
         padding: 0 24px 7px;
+        display: flex;
+        justify-content: center;
     }
 }

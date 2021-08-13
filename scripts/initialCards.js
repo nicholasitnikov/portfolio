@@ -58,7 +58,7 @@ const initialCards = [
       name: 'COEUR du nord',
       link: './images/works/coeurdunodr.png',
       href: 'https://coeurdunord.fr',
-      caption: '',
+      caption: 'производство козьего сыра',
       row: '4/5',
       column: '2/4'
     },
