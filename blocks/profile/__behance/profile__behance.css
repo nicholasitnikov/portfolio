@@ -1,0 +1,22 @@
+.profile__behance {
+    background: url('../../../images/behance.svg');
+    border: none;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: contain;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+.profile__behance:hover {
+    opacity: .8;
+}
+
+@media screen and (max-width: 375px) {
+    .profile__behance {
+        margin-bottom: 10px;
+        margin-left: 0;
+    }
+}

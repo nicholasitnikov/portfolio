@@ -1,0 +1,7 @@
+@media screen and (max-width: 375px) {
+    .profile__social {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}

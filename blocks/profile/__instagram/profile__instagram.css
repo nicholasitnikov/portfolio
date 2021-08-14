@@ -1,0 +1,21 @@
+.profile__instagram {
+    background: url('../../../images/instagram.svg');
+    border: none;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: contain;
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+.profile__instagram:hover {
+    opacity: .8;
+}
+
+@media screen and (max-width: 375px) {
+    .profile__instagram {
+        margin-left: 0;
+    }
+}

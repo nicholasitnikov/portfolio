@@ -1,0 +1,15 @@
+.profile__email {
+    color: white;
+    text-decoration: none;
+    border-bottom: 1px solid #ccc;
+}
+
+.profile__email:hover {
+    opacity: .8;
+}
+
+@media screen and (max-width: 375px) {
+    .profile__email {
+        margin-bottom: 5px;
+    }
+}

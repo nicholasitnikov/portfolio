@@ -13,6 +13,10 @@
 @import url('../blocks/profile/__info/profile__info.css');
 @import url('../blocks/profile/__heading/profile__heading.css');
 @import url('../blocks/profile/__description/profile__description.css');
+@import url('../blocks/profile/__instagram/profile__instagram.css');
+@import url('../blocks/profile/__behance/profile__behance.css');
+@import url('../blocks/profile/__email/profile__email.css');
+@import url('../blocks/profile/__social/profile__social.css');
 
 @import url('../blocks/places/places.css');
 @import url('../blocks/place/place.css');
